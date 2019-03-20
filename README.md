@@ -1,6 +1,6 @@
 # N-x-N
 
-Large scale array containing multiples up to 100 000 x 100 
+Large scale array containing multiples up to 100 000 x 100 000
 
 Compile using:
 
